@@ -1,5 +1,6 @@
 {
   "name": "envtoazure",
+  "engines": {"node": "14.x"},
   "private": true,
   "version": "0.0.0",
   "type": "module",
